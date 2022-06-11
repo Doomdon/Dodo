@@ -6,4 +6,4 @@ def signup(request):
 
 
 # def home(request):
-#     return render(request, 'todo/home.html')
+##     return render(request, 'todo/home.html')
